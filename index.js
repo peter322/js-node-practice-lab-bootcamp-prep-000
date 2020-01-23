@@ -10,4 +10,4 @@ console.log("Height:")
 console.log(height)
 
 
-console.log(height) +1
+console.log(height+1) +1
