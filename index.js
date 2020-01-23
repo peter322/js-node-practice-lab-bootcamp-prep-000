@@ -11,3 +11,5 @@ console.log(height)
 
 
 console.log(parseInt(height)+1)
+
+console.log(parseInt(height)+1)
